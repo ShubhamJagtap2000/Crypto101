@@ -12,6 +12,6 @@ This repo will explore core cryptographic topics that are used to secure communi
 
 ## Topics Covered
 
-1. Hashing
-2. John The Ripper
-3. Encryption 
+#### 1. Hashing
+#### 2. John The Ripper
+#### 3. Encryption 

@@ -31,6 +31,8 @@ In order to use a private SSH key, the permissions must be set up correctly othe
 
 # Answer the following questions
 
+**Refer to the [attached file](https://github.com/ShubhamJagtap2000/Crypto101/blob/main/03%20-%20Encryption/07%20-%20SSH%20Authentication/idrsa.id_rsa) to complete this task and use ssh2john first!**
+
 Crack the password with John The Ripper and rockyou, what's the passphrase for the key?
 ```
 delicious

@@ -72,5 +72,4 @@ john --format=raw-md5 --wordlist=/usr/share/wordlists/rockyou.txt hash_to_crack.
 
 - To check if you need to add the prefix or not, you can list all of John's formats using `john --list=formats` and either check `manually`, or `grep` for your hash type using something like `john --list=formats | grep -iF "md5"`.
 
-
-
+# Go to the [Practical](https://github.com/ShubhamJagtap2000/Crypto101/tree/main/02%20-%20John%20The%20Ripper/04%20-%20Cracking%20Basic%20Hashes/Practical) to see how to use John(John The Ripper)

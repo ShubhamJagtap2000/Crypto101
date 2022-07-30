@@ -1,4 +1,4 @@
-# Practical 
+# [Practical](https://github.com/ShubhamJagtap2000/Crypto101/blob/main/02%20-%20John%20The%20Ripper/04%20-%20Cracking%20Basic%20Hashes/Practical/Practical.md) 
 
 ## 1. John Basic Syntax
 

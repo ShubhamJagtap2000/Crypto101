@@ -12,6 +12,6 @@ This repo will explore core cryptographic topics that are used to secure communi
 
 ## Topics Covered
 
-#### 1. Hashing
-#### 2. John The Ripper
-#### 3. Encryption 
+- **[1. Hashing](https://github.com/ShubhamJagtap2000/Crypto101/tree/main/01%20-%20Hashing)**
+- **[2. John The Ripper](https://github.com/ShubhamJagtap2000/Crypto101/tree/main/02%20-%20John%20The%20Ripper)**
+- **[3. Encryption](https://github.com/ShubhamJagtap2000/Crypto101/tree/main/03%20-%20Encryption)**
